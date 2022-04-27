@@ -1,23 +1,12 @@
-### Hi there 👋
+### I'm glad you came here to learn a little about who I am!  I can't wait to learn something fun about you!  
 
-<!--
-**kathrynhodges/kathrynhodges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on finishing my certificate in Data Science through Bloom Institute of Technology! 
-
-- 🌱 I’m currently learning Tesseract, machine learning, code cleaning and team dynamics. 
-
-- 👯 I’m looking to collaborate on everything data science, analytics, and engineering. 
-
-- 💬 Ask me about why I choose to change career paths.
-
-- 📫 How to reach me: nikihodges@yahoo.com or https://www.linkedin.com/in/kathryn-hodges/
-
-- 😄 Pronouns: She/Her
-
-- ⚡ Fun fact: I'm a full-time mom, work a full-time job, and go to school part-time learning a completely new field.  
+Growing up in a technical family, one of my most cherished memories was when my dad brought a floppy drive... and we got to play Oregon Trail on his computer!  That memory, and many others, of life before the internet was at our fingertips is one of the reasons why I pursued a career in technology (yes, we survived!).  Embracing changes, being flexible in our approach to solving problems, and working relentlessly to find answers is fascinating to me!  
 
 
-![Quotefancy-166866-3840x2160](https://user-images.githubusercontent.com/79806208/165422324-bc9e235d-c737-4878-a19a-18044640c604.jpeg)
+Over the past year, I have been working relentlessly as a single mom, working a full-time job, AND studying to get my certificate in data science from the Bloom Institute of Technology.  It has been a journey and I have learned so many new things (who knew Python is more than just a pet I will never have).  I'm looking forward to beginning my data career and continuing to be a lifelong learner as I embrace the next steps of my  
+
+
+Contact information: nikihodges@yahoo.com or https://www.linkedin.com/in/kathryn-hodges/
+
+
+![Quotefancy-166866-3840x2160](https://user-images.githubusercontent.com/79806208/165423052-79274c6d-3c07-4106-880e-414f15be1d5a.jpeg)
