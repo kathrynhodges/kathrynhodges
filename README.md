@@ -1,12 +1,23 @@
-### I'm glad you came here to learn a little about who I am!  I can't wait to learn something fun about you!  
+<h1 align="center">Hi, I'm Kathryn</h1>
+<h3 align="center">A resilient Data Scientist from North Carolina</h3>
 
-Growing up in a technical family, one of my most cherished memories was when my dad brought a floppy drive... and we got to play Oregon Trail on his computer!  That memory, and many others, of life before the internet was at our fingertips is one of the reasons why I pursued a career in technology (yes, we survived!).  Embracing changes, being flexible in our approach to solving problems, and working relentlessly to find answers is fascinating to me!  
+- 🌱 I’m currently learning **Tesseract**
 
+- 📫 How to reach me **nikihodges@yahoo.com**
 
-Over the past year, I have been working relentlessly as a single mom, working a full-time job, AND studying to get my certificate in data science from the Bloom Institute of Technology.  It has been a journey and I have learned so many new things (who knew Python is more than just a pet I will never have).  I'm looking forward to beginning my data career and continuing to be a lifelong learner as a Data Scientist!
+- 📄 Know about my experiences [https://docs.google.com/document/d/1xFTXz_fZSnGHf_ftj381JCpbQjzMq72cC6XdY1GA09s/edit?usp=sharing](https://docs.google.com/document/d/1xFTXz_fZSnGHf_ftj381JCpbQjzMq72cC6XdY1GA09s/edit?usp=sharing)
 
+- ⚡ Fun fact **Before March 2021, I thought Python was just that animal I'm terrified of!**
 
-Contact information: nikihodges@yahoo.com or https://www.linkedin.com/in/kathryn-hodges/
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kathryn-hodges" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kathryn-hodges" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-![Quotefancy-166866-3840x2160](https://user-images.githubusercontent.com/79806208/165423052-79274c6d-3c07-4106-880e-414f15be1d5a.jpeg)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kathrynhodges&show_icons=true&locale=en&layout=compact" alt="kathrynhodges" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kathrynhodges&show_icons=true&locale=en" alt="kathrynhodges" /></p>
+
